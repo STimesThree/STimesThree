@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @STimesThree
+- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in using the applying the stuff I learn into practical and fun applications. 
